@@ -1,0 +1,19 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "NLW #3 - Trilha Omnistack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbuck84/projeto-nlw3-omnistack.git"
+  },
+  "author": "Dan Buck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danbuck84/projeto-nlw3-omnistack/issues"
+  },
+  "homepage": "https://github.com/danbuck84/projeto-nlw3-omnistack#readme"
+}
